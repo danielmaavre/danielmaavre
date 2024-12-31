@@ -26,7 +26,6 @@ Passionate about software and technology, always eager to learn new things.<br>
 <!--![Node.js](https://img.shields.io/badge/Node.js-green?style=flat&logo=nodedotjs&logoColor=gray) ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) --> 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/Github-%23121011.svg?style=flat&logo=github&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white) ![Unity](https://img.shields.io/badge/Unity-100000?style=flat&logo=unity&logoColor=white)
 
-<!--
 <h2>
 ## 📊 GitHub Stats
 <h2 align="center">
@@ -35,4 +34,4 @@ Passionate about software and technology, always eager to learn new things.<br>
   ![](https://github-readme-stats.vercel.app/api?username=danielmaavre&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/><br/>
   ![](https://github-readme-streak-stats.herokuapp.com/?user=danielmaavre&theme=tokyonight&hide_border=false)
 </h2>
--->
+
